@@ -1,0 +1,2 @@
+$items = @("a", "b")
+foreach ($i in $items) { print $i> }
